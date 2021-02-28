@@ -3,4 +3,4 @@ project(cc_labs)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(cc_labs main.cpp fibonacci.cpp fibonacci.h)
+add_executable(cc_labs main.cpp eratosthenes.cpp eratosthenes.h)
