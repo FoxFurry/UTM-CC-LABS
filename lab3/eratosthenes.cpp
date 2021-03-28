@@ -105,3 +105,5 @@ void eratosthenes_5(int n) {
     }
     if(PRINT_PRIME)print_primes(primes, n);
 }
+
+

@@ -16,7 +16,8 @@ double execTime(varT def(varArgs...), varArgs... fun_args){
             stopwatch_start).count();
 }
 
-int main(){
+
+int main() {
 
     std::random_device rnd_device;
     std::mt19937 mersenne_engine {rnd_device()};
@@ -40,3 +41,5 @@ int main(){
 
     return 0;
 }
+
+
